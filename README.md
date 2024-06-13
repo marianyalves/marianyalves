@@ -1,3 +1,8 @@
 ### Bem vindos ao meu perfi 🍒 
-me chamo Mariany Alves 🌟
+_me chamo Mariany Alves 🌟
  sou aluna do 3 ano 🧑‍🎓
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript_
+>Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos🍒
+
+
